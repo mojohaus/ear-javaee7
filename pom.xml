@@ -7,7 +7,7 @@
   </parent>
   <modelVersion>4.0.0</modelVersion>
   <artifactId>ear-javaee7</artifactId>
-  <version>0.1-SNAPSHOT</version>
+  <version>0.2-SNAPSHOT</version>
   <packaging>maven-archetype</packaging>
   <name>Java EE 7 EAR Archetype</name>
   <description>Archetype for EAR package using Java EE 7</description>
